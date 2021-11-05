@@ -55,3 +55,19 @@ border-radius: 25px;
 .environment_li p{
     margin-top: 15px;
 }
+.book{
+cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+    text-align: center;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 20px;;
+}
+.header_entrepreneur{
+    line-height: 2;
+}
